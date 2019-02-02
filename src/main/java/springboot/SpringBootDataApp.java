@@ -9,10 +9,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  *
  */
 @SpringBootApplication
-public class CourseApiApp {
+public class SpringBootDataApp {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CourseApiApp.class, args);
+		SpringApplication.run(SpringBootDataApp.class, args);
 
 	}
 
